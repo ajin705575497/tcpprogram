@@ -1,0 +1,2 @@
+WSAStringToAddress ：将地址信息字符串适当填入结构体变量
+WSAAddressToString ：将结构体中的地址信息转换成字符串
